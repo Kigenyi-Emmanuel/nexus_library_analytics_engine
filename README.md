@@ -302,13 +302,13 @@ HAVING
 The solution delivers a 3-page professional report:
 
 1. **Page 1 (Executive Overview - The Pulse):** High-level KPI cards, demographic donut chart, catalog popularity bar chart, and monthly borrowing trend.
-![Dashboard](assets/images/dashboard-mockup.png)
+![Dashboard](assets/image/Executive_overview.png)
 
 2. **Page 2 (Inventory & Circulation Performance):** Operational health KPI cards, master inventory title-level circulation matrix table, and physical status breakdown.
-![Dashboard](assets/images/dashboard-mockup.png)
+![Dashboard](assets/images/Finance_&_Compliance_risk.png)
 
 3. **Page 3 (Financial & Compliance Risk):** eCitizen revenue recovery metrics, financial leakage cards, monthly fine accrual vs recovery trends, and high-default patron audit with DPA 2019 phone masking.
-![Dashboard](assets/images/dashboard-mockup.png)
+![Dashboard](assets/images/Inventory_&_Circulation.png)
 
 ## DAX Measures
 
