@@ -305,7 +305,7 @@ The solution delivers a 3-page professional report:
 ![Dashboard](assets/image/Executive_overview.png)
 
 2. **Page 2 (Inventory & Circulation Performance):** Operational health KPI cards, master inventory title-level circulation matrix table, and physical status breakdown.
-![Dashboard](assets/images/Finance_&_Compliance_risk.png)
+![Dashboard](assets/image/Financial_%26_Compliance_risk.png)
 
 3. **Page 3 (Financial & Compliance Risk):** eCitizen revenue recovery metrics, financial leakage cards, monthly fine accrual vs recovery trends, and high-default patron audit with DPA 2019 phone masking.
 ![Dashboard](assets/images/Inventory_&_Circulation.png)
