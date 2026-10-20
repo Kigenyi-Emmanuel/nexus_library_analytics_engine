@@ -310,6 +310,8 @@ The solution delivers a 3-page professional report:
 3. **Page 3 (Financial & Compliance Risk):** eCitizen revenue recovery metrics, financial leakage cards, monthly fine accrual vs recovery trends, and high-default patron audit with DPA 2019 phone masking.
 ![Dashboard](assets/image/Inventory_%26_Circulation.png)
 
+[**Click to interact with the Dashboard (Power BI)**](power_bi/Nexus_library_analytics_engine.pbix)
+
 ## DAX Measures
 
 ### 1. Total Active Members
